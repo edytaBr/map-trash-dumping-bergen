@@ -1,7 +1,7 @@
 import React from 'react';
 import Maps from './map'
-import '/home/edyta/react/onClickMarker/map-app/src/Assets/css/default.min.css';
-import Header from '/home/edyta/react/onClickMarker/map-app/src/components/headerComponent/header.js'
+import './Assets/css/default.min.css';
+import Header from './components/headerComponent/header.js'
 
 import './App.css';
 
