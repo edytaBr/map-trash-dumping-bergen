@@ -1,4 +1,6 @@
 Click on the map to mark illegal thrash dumping in Bergen.
+An attempt to create PPGIS webside that allows to collect data from users and save it in the database.
+
 ![image](https://github.com/edytaBr/map-trash-dumping-bergen/blob/30c26e1e44b2ab6c54b55c3b90062682c164172c/Screenshot%20from%202021-07-21%2009-13-38.png)
 
 
